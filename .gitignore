@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Claude Code personal settings
+.claude/settings.local.json
+
+# Logs & misc
+*.log
+.DS_Store
+Thumbs.db
